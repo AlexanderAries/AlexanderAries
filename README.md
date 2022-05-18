@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in F1. F2. F3, Nascar,  
+- 🌱 I’m currently learning HTML, CSS, JS, 
