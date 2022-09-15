@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Alexander!
-- 👀 I’m interested in chess♟️, karting and sports racing🏁, I like strategy📜, board games🎲.
-- 🌱 I’m currently learning HTML, CSS, JS, 
